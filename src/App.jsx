@@ -32,7 +32,7 @@ function App() {
       return (
     <>
       <div className='flex items-center h-screen max-w-screen-3xl bg-center bg-cover bg-[url("https://img.freepik.com/free-vector/minimalist-gradient-background-design-template_483537-2810.jpg?t=st=1703832786~exp=1703833386~hmac=469e159b020bae0130b3da00b13a050e8903ee082a2e7f8d91dcaf4321456d8a")] '>
-        <div className=" bg-white/20 shadow-2xl shadow-slate-950 rounded-2xl p-4 h-96 w-96  m-auto">
+        <div className=" bg-white/10 shadow-2xl shadow-slate-950 rounded-2xl p-4 h-96 w-96  m-auto">
           <h1 className="mt-8 font-bold text-3xl text-center text-cyan-800">
             Login Here
           </h1>
